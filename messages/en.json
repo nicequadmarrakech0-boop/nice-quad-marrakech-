@@ -1,0 +1,349 @@
+{
+  "common": {
+    "back": "Back",
+    "backHome": "Back Home",
+    "loading": "Loading...",
+    "submit": "Submit",
+    "bookNow": "Book Now",
+    "viewAll": "View All",
+    "seeAll": "See All",
+    "readMore": "Read More",
+    "searchPlaceholder": "Search...",
+    "noResults": "No results found",
+    "allPosts": "All Posts",
+    "perHour": "/hour",
+    "startingFrom": "Starting from",
+    "included": "Included",
+    "featured": "Featured",
+    "seats": "seats",
+    "seat": "seat"
+  },
+  "nav": {
+    "home": "Home",
+    "experiences": "Experiences",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "explore": "Explore",
+    "blog": "Blog"
+  },
+  "hero": {
+    "location": "MARRAKECH, MOROCCO",
+    "title": "Nice Quads Marrakech",
+    "subtitle": "Your Adventure Partner",
+    "description": "Experience the thrill of quad biking, buggy rides, and motocross through Morocco's stunning desert landscapes. Professional guides, premium equipment, hotel pickup & drop-off, traditional Moroccan breakfast with tea, professional photos,",
+    "descriptionHighlight": "and a complimentary 20-minute camel ride",
+    "descriptionEnd": "— our gift to you!",
+    "viewFleet": "View Fleet",
+    "stats": {
+      "vehicles": "30+ Vehicles",
+      "premiumFleet": "Premium Fleet",
+      "fullyInsured": "Fully Insured",
+      "safeSecure": "Safe & Secure",
+      "expertGuides": "Expert Guides",
+      "allSkillLevels": "All Skill Levels"
+    },
+    "offerings": {
+      "quadBiking": "Quad Biking",
+      "quadDesc": "Powerful ATVs for desert adventures",
+      "buggyTours": "Buggy Tours",
+      "buggyDesc": "High-performance dune buggies",
+      "motocross": "Motocross",
+      "motocrossDesc": "Professional dirt bikes"
+    }
+  },
+  "experiences": {
+    "title": "Choose Your",
+    "titleHighlight": "Adventure",
+    "subtitle": "Premium desert experiences with quad bikes, buggies, and motocross. Professional guides, top-tier equipment.",
+    "categories": {
+      "buggies": "Buggies",
+      "quads": "Quads",
+      "motocross": "Motocross"
+    },
+    "pageTitle": "All Our",
+    "pageTitleHighlight": "Experiences",
+    "pageSubtitle": "Explore our complete fleet of premium quads, buggies, and motocross bikes. Choose the perfect ride for your Marrakech desert adventure.",
+    "specs": {
+      "power": "Power",
+      "engine": "Engine",
+      "capacity": "Capacity",
+      "type": "Type",
+      "transmission": "Transmission"
+    }
+  },
+  "reviews": {
+    "title": "What Our",
+    "titleHighlight": "Adventurers",
+    "titleEnd": "Say",
+    "subtitle": "Real experiences from real travelers who discovered the magic of Morocco with us",
+    "pageTitle": "What Our",
+    "pageTitleHighlight": "Customers",
+    "pageTitleEnd": "Say",
+    "pageSubtitle": "Real experiences from real customers who chose our premium vehicles for their Morocco adventures.",
+    "customerReviews": "Customer Reviews",
+    "averageRating": "Average Rating",
+    "totalReviews": "Total Reviews",
+    "noReviews": "No Reviews Yet",
+    "noReviewsDesc": "Be the first to share your experience with us! Your feedback helps other travelers discover the magic of Morocco.",
+    "noReviewsFound": "No Reviews Found",
+    "tryAdjusting": "Try adjusting your search.",
+    "beFirst": "Be the first to share your experience!",
+    "addReview": "Add Your Review",
+    "seeAllReviews": "See All Reviews",
+    "shareExperience": "Share Your Experience",
+    "shareExperienceDesc": "Did you enjoy a Morocco adventure with us? We'd love to hear about your experience!"
+  },
+  "addReview": {
+    "title": "Add Your",
+    "titleHighlight": "Review",
+    "subtitle": "Help other travelers by sharing your Morocco adventure experience. Your honest feedback means a lot to us and future visitors.",
+    "shareExperience": "Share Your Experience",
+    "vehicleQuestion": "Which vehicle did you rent?",
+    "selectVehicle": "Select a vehicle...",
+    "searchVehicles": "Search vehicles...",
+    "noVehiclesFound": "No vehicles found",
+    "tryAdjusting": "Try adjusting your search",
+    "yourName": "Your Name",
+    "enterName": "Enter your full name",
+    "yourEmail": "Your Email",
+    "enterEmail": "Enter your email address",
+    "overallRating": "Overall Rating",
+    "ratingLabels": {
+      "excellent": "Excellent!",
+      "veryGood": "Very Good!",
+      "good": "Good",
+      "fair": "Fair",
+      "poor": "Poor"
+    },
+    "stars": "stars",
+    "star": "star",
+    "experienceLabel": "Share Your Experience",
+    "experiencePlaceholder": "Tell us about your experience... What did you love most? What made it special? Any tips for future travelers?",
+    "characters": "characters",
+    "privacyNotice": "Privacy Notice:",
+    "privacyText": "Your email address will never be shared publicly or with third parties. We only use it for internal purposes and to contact you if needed. Your review will be reviewed by our team before publication. Only your name and review will be displayed publicly.",
+    "submitReview": "Submit Review",
+    "submitting": "Submitting...",
+    "thankYou": "Thank You!",
+    "successMessage": "Your review has been submitted successfully! It will be reviewed by our team and published once approved. You can check our reviews page later to see it live.",
+    "backToHome": "Back to Home",
+    "viewAllReviews": "View All Reviews",
+    "errors": {
+      "selectVehicle": "Please select a vehicle",
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email",
+      "ratingRequired": "Please select a rating",
+      "commentRequired": "Review comment is required",
+      "commentMinLength": "Review must be at least 10 characters"
+    }
+  },
+  "booking": {
+    "completeBooking": "Complete Your Booking",
+    "yourInformation": "Your Information",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "John Doe",
+    "email": "Email",
+    "emailPlaceholder": "john@example.com",
+    "phone": "Phone",
+    "phonePlaceholder": "+212 6 34 32 44 28",
+    "dateTime": "Date & Time",
+    "date": "Date",
+    "selectDate": "Select date",
+    "time": "Time",
+    "selectTime": "Select time",
+    "duration": "Duration",
+    "oneHour": "1 Hour",
+    "twoHours": "2 Hours",
+    "numberOfVehicles": "Number of Vehicles",
+    "howMany": "How many",
+    "quads": "Quads",
+    "people": "People",
+    "secondPassenger": "2nd:",
+    "secondPassengerInfo": "Up to 2 people can share one quad. First person pays full price (150 DHS/2hr), second passenger pays only 50 DHS/hr.",
+    "totalAmount": "Total Amount",
+    "allInclusive": "All inclusive pricing",
+    "confirmationNote": "Confirmation email within 15 minutes.",
+    "confirmBooking": "Confirm Booking",
+    "completeAllFields": "Complete all fields",
+    "processing": "Processing...",
+    "noVehicleSelected": "No vehicle selected",
+    "goBack": "Go Back",
+    "change": "Change",
+    "selectConfiguration": "Select Configuration",
+    "selectBike": "Select Bike",
+    "freeBonusGift": "Free Bonus Gift",
+    "camelRideIncluded": "20-minute camel ride included!",
+    "vehicle": "Vehicle",
+    "vehicles": "Vehicles",
+    "trustBadges": {
+      "securePayment": "Secure Payment",
+      "licensed": "Licensed",
+      "support": "24/7 Support"
+    },
+    "confirmation": {
+      "title": "Booking Confirmed!",
+      "subtitle": "Your adventure awaits",
+      "bookingDetails": "Booking Details",
+      "customer": "Customer",
+      "totalPrice": "Total Price",
+      "confirmationEmailSent": "Confirmation Email Sent",
+      "wellCallYou": "We'll Call You Soon",
+      "confirmationWithin": "Confirmation within 24 hours",
+      "backToHome": "Back to Home",
+      "newBooking": "New Booking"
+    },
+    "vehicleSelector": {
+      "title": "Choose Your Adventure",
+      "selected": "Selected"
+    }
+  },
+  "blog": {
+    "ourBlog": "Our Blog",
+    "title": "Travel Tips &",
+    "titleHighlight": "Adventure Guides",
+    "subtitle": "Discover insider tips, travel guides, and expert advice for your Marrakech desert adventure.",
+    "pageTitle": "Our",
+    "pageTitleHighlight": "Blog",
+    "pageSubtitle": "Discover travel tips, adventure guides, and insider knowledge about quad biking and desert adventures in Marrakech.",
+    "searchArticles": "Search articles...",
+    "readArticle": "Read Article",
+    "readMore": "Read More",
+    "viewAllArticles": "View All Articles",
+    "minRead": "min read",
+    "min": "min",
+    "author": "Author",
+    "noArticles": "No articles found",
+    "noArticlesSearch": "Try a different search term",
+    "noArticlesCheck": "Check back soon for new articles!",
+    "relatedPosts": "Related Articles",
+    "sharePost": "Share this article",
+    "tableOfContents": "Table of Contents",
+    "tags": "Tags"
+  },
+  "footer": {
+    "tagline": "Experience the thrill of Marrakech's desert",
+    "description": "Guided quad bike and buggy tours in Marrakech Palmeraie. Safe, family-friendly desert adventures with hotel pickup and expert local guides.",
+    "experiences": "Experiences",
+    "quadBikes": "Quad Bikes",
+    "buggies": "Buggies",
+    "motocross": "Motocross",
+    "contact": "Contact",
+    "allRightsReserved": "All rights reserved.",
+    "premiumAdventures": "Premium Adventures"
+  },
+  "gallery": {
+    "title": "Our",
+    "titleHighlight": "Gallery",
+    "subtitle": "Explore our amazing adventures through these captured moments",
+    "images": "Images",
+    "videos": "Videos",
+    "noItems": "No {type} available yet. Check back soon!"
+  },
+  "map": {
+    "title": "Find",
+    "titleHighlight": "Our Location",
+    "subtitle": "Visit us at our office in Marrakech or explore our location on the map below",
+    "getDirections": "Get Directions"
+  },
+  "experienceVehicles": {
+    "quad-kymco-300": {
+      "description": "Perfect beginner-friendly adventure through Marrakech's stunning desert landscapes. Your complete package includes: hotel pickup & drop-off, traditional Moroccan breakfast & tea, professional photos, and all safety gear. Automatic transmission makes it easy for first-time riders.",
+      "highlights": {
+        "pickup": "Hotel pickup & drop-off",
+        "breakfast": "Moroccan breakfast & tea",
+        "photos": "Professional photos included",
+        "safety": "All safety gear included",
+        "beginner": "Beginner friendly",
+        "trails": "Desert trails"
+      }
+    },
+    "quad-raptor-700": {
+      "description": "Unleash 45 HP of pure adrenaline on Morocco's most challenging terrain. This high-performance sport quad is built for experienced riders seeking the ultimate thrill. All-inclusive package features: hotel transfers, Moroccan breakfast & tea, professional photos, and full safety equipment. Advanced suspension tackles any terrain.",
+      "highlights": {
+        "pickup": "Hotel pickup & drop-off",
+        "breakfast": "Moroccan breakfast & tea",
+        "photos": "Professional photos included",
+        "safety": "Full safety equipment",
+        "power": "45 HP power",
+        "suspension": "Advanced suspension"
+      }
+    },
+    "buggy-polaris-rs1": {
+      "description": "Experience pure performance with this 110 HP single-seat beast designed for aggressive off-road adventures. Your complete adventure includes: hotel pickup & drop-off, traditional Moroccan breakfast & tea, professional photos to capture every moment, and all safety equipment. Perfect for solo thrill-seekers.",
+      "highlights": {
+        "pickup": "Hotel pickup & drop-off",
+        "breakfast": "Moroccan breakfast & tea",
+        "photos": "Professional photos included",
+        "safety": "Safety harness included",
+        "awd": "AWD drivetrain",
+        "dunes": "Desert dunes ready"
+      }
+    },
+    "buggy-cfmoto-zforce-1000": {
+      "description": "Share the adventure with this powerful 90 HP V-twin side-by-side buggy. Perfect for couples or friends wanting to experience the desert together. Complete package includes: hotel pickup & drop-off, traditional Moroccan breakfast & tea, professional photos of your journey, and dual safety harnesses. 2WD/4WD selectable for any terrain.",
+      "highlights": {
+        "pickup": "Hotel pickup & drop-off",
+        "breakfast": "Moroccan breakfast & tea",
+        "photos": "Professional photos included",
+        "safety": "Dual safety harness",
+        "power": "90 HP V-twin power",
+        "couples": "Couples adventure"
+      }
+    },
+    "buggy-canam-maverick": {
+      "description": "Experience the ultimate adrenaline rush with this 200 HP turbocharged beast, perfect for extreme off-road desert adventures. Your all-inclusive package features: hotel pickup & drop-off, traditional Moroccan breakfast & tea, professional photos to capture your experience, and 4-point safety harnesses. Available in 2-seater for intense rides or 4-seater for sharing the adventure with family.",
+      "highlights": {
+        "pickup": "Hotel pickup & drop-off",
+        "breakfast": "Moroccan breakfast & tea",
+        "photos": "Professional photos included",
+        "safety": "4-point harness",
+        "suspension": "FOX racing suspension",
+        "terrain": "Extreme terrain"
+      }
+    },
+    "moto-cross": {
+      "description": "Professional motocross experience on world-class tracks with bikes ranging from 85cc youth models to powerful 450cc racing machines. Perfect for all skill levels from beginners to experts. Your complete package includes: hotel pickup & drop-off, traditional Moroccan breakfast & tea, professional photos of your ride, and full MX gear (helmet, boots, protective gear). Choose your perfect bike and skill level.",
+      "highlights": {
+        "pickup": "Hotel pickup & drop-off",
+        "breakfast": "Moroccan breakfast & tea",
+        "photos": "Professional photos included",
+        "safety": "Full MX gear included",
+        "levels": "All skill levels",
+        "tracks": "Motocross tracks"
+      }
+    }
+  },
+  "discover": {
+    "title": "Explore",
+    "titleHighlight": "Morocco",
+    "subtitle": "From Marrakech to Merzouga, Essaouira to Fes. Discover Morocco's best cities and landscapes with premium quad & buggy adventures.",
+    "cities": {
+      "marrakech": {
+        "title": "Marrakech",
+        "description": "Imperial red city with desert dunes, palm groves, and Atlas trails. Perfect base for quad adventures with expert guides. Explore Agafay Desert landscapes, Palmeraie circuits, and mountain trails. Experience authentic Moroccan hospitality with professional quad biking tours. Discover hidden gems near Marrakech with sunset buggy rides and day excursions."
+      },
+      "merzouga": {
+        "title": "Merzouga",
+        "description": "Gateway to Sahara's golden Erg Chebbi dunes. Experience Berber culture and epic desert quad expeditions. Navigate massive sand dunes with powerful quad bikes and buggies. Witness magical sunrises and starlit desert nights on unforgettable tours. Combine camel trekking with adrenaline-filled quad adventures in Morocco's Sahara."
+      },
+      "essaouira": {
+        "title": "Essaouira",
+        "description": "Atlantic coastal gem with beaches and ancient ramparts. Quad along ocean shores with stunning views. Ride through coastal dunes, eucalyptus forests, and sandy beaches. Experience the perfect blend of sea breeze and adventure sports. Explore UNESCO-listed medina and Mogador Island on guided quad tours."
+      },
+      "ouarzazate": {
+        "title": "Ouarzazate",
+        "description": "Morocco's Hollywood with cinematic desert landscapes. Ride through film locations and ancient kasbahs. Discover Ait Ben Haddou fortified village and Atlas Studios on quad tours. Experience dramatic valley scenery and pre-Saharan desert terrain. Adventure through famous movie sets and thousand-year-old Berber architecture."
+      },
+      "fes": {
+        "title": "Fes",
+        "description": "Ancient imperial city with medieval medinas. Cultural quad tours through hills and Berber villages. Navigate Middle Atlas mountains with breathtaking panoramic views and cedar forests. Visit traditional pottery villages and artisan workshops on guided excursions. Combine heritage exploration with thrilling quad biking adventures in Morocco's cultural capital."
+      },
+      "agadir": {
+        "title": "Agadir",
+        "description": "Modern beach resort with coastal dunes. Atlantic shores meet desert adventures in perfect weather. Ride along pristine beaches, Souss-Massa National Park, and argan tree forests. Year-round sunshine perfect for buggy tours and quad biking experiences. Enjoy beach clubs, seafood, and adrenaline sports in Morocco's premier coastal destination."
+      }
+    }
+  }
+}

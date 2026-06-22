@@ -1,0 +1,295 @@
+{
+  "rentalMenu": {
+    "quad": [
+      {
+        "id": "quad-kymco-300",
+        "category": "QUAD",
+        "brand": "KYMCO",
+        "model": "MXU 300",
+        "engineSize": "300cc",
+        "description": "Automatic quad bike, perfect for beginners and recreational riding",
+        "specifications": {
+          "engine": "270cc 4-stroke liquid-cooled",
+          "power": "19.6 HP",
+          "transmission": "Automatic CVT",
+          "seats": 1,
+          "fuelTank": "15 liters",
+          "brakes": "Hydraulic disc front and rear"
+        },
+        "pricing": {
+          "1hour": {
+            "price": 300,
+            "currency": "DHS"
+          },
+          "2hours": {
+            "price": 500,
+            "currency": "DHS"
+          }
+        },
+        "image": "kymco-300.jpg"
+      },
+      {
+        "id": "quad-raptor-700",
+        "category": "QUAD",
+        "brand": "YAMAHA",
+        "model": "RAPTOR 700",
+        "engineSize": "700cc",
+        "description": "High-performance sport quad with powerful engine and advanced suspension",
+        "specifications": {
+          "engine": "686cc fuel-injected single cylinder",
+          "power": "~45 HP",
+          "transmission": "5-speed manual with reverse",
+          "seats": 1,
+          "fuelTank": "11 liters",
+          "suspension": "9.1\" front / 10.1\" rear travel"
+        },
+        "pricing": {
+          "1hour": {
+            "price": 1200,
+            "currency": "DHS"
+          },
+          "2hours": {
+            "price": 2000,
+            "currency": "DHS"
+          }
+        },
+        "image": "raptor-700.jpg"
+      }
+    ],
+    "buggy": [
+      {
+        "id": "buggy-polaris-rs1",
+        "category": "BUGGY",
+        "brand": "POLARIS",
+        "model": "RZR RS1 1000",
+        "engineSize": "1000cc",
+        "description": "Single-seat performance buggy designed for aggressive off-road adventures",
+        "specifications": {
+          "engine": "999cc ProStar Twin Cylinder",
+          "power": "110 HP",
+          "transmission": "Automatic P/R/N/D",
+          "seats": 1,
+          "drivetrain": "AWD",
+          "suspension": "High-performance sport suspension"
+        },
+        "pricing": {
+          "1hour": {
+            "price": 1500,
+            "currency": "DHS"
+          },
+          "2hours": {
+            "price": 2500,
+            "currency": "DHS"
+          }
+        },
+        "image": "polaris-rs1.jpg"
+      },
+      {
+        "id": "buggy-polaris-1000-2seat",
+        "category": "BUGGY",
+        "brand": "POLARIS",
+        "model": "RZR 1000",
+        "engineSize": "1000cc",
+        "description": "Two-seat performance buggy for shared off-road experiences",
+        "specifications": {
+          "engine": "999cc ProStar Twin Cylinder",
+          "power": "110 HP",
+          "transmission": "Automatic P/R/N/D",
+          "seats": 2,
+          "drivetrain": "AWD"
+        },
+        "pricing": {
+          "1hour": {
+            "price": 1500,
+            "currency": "DHS"
+          },
+          "2hours": {
+            "price": 2500,
+            "currency": "DHS"
+          }
+        },
+        "image": "polaris-1000.jpg"
+      },
+      {
+        "id": "buggy-canam-maverick-2seat",
+        "category": "BUGGY",
+        "brand": "CAN-AM",
+        "model": "MAVERICK X3 TURBO",
+        "engineSize": "1000cc",
+        "seats": 2,
+        "description": "2-seater high-performance turbocharged buggy with 200 HP",
+        "specifications": {
+          "engine": "900cc Rotax ACE Turbo Triple",
+          "power": "200 HP",
+          "transmission": "CVT with Sport mode",
+          "seats": 2,
+          "drivetrain": "AWD with Smart-Lok",
+          "suspension": "FOX Podium RC2 shocks",
+          "width": "64 inches",
+          "wheelbase": "102 inches"
+        },
+        "pricing": {
+          "1hour": {
+            "price": 1400,
+            "currency": "DHS"
+          },
+          "2hours": {
+            "price": 2400,
+            "currency": "DHS"
+          }
+        },
+        "image": "canam-maverick-2seat.jpg"
+      },
+      {
+        "id": "buggy-canam-maverick-4seat",
+        "category": "BUGGY",
+        "brand": "CAN-AM",
+        "model": "MAVERICK X3 MAX TURBO",
+        "engineSize": "1000cc",
+        "seats": 4,
+        "description": "4-seater high-performance turbocharged buggy perfect for family adventures",
+        "specifications": {
+          "engine": "900cc Rotax ACE Turbo Triple",
+          "power": "200 HP",
+          "transmission": "CVT with Sport mode",
+          "seats": 4,
+          "drivetrain": "AWD with Smart-Lok",
+          "suspension": "FOX Podium RC2 shocks",
+          "width": "64-72 inches (models vary)",
+          "wheelbase": "135 inches"
+        },
+        "pricing": {
+          "1hour": {
+            "price": 2000,
+            "currency": "DHS"
+          },
+          "2hours": {
+            "price": 3500,
+            "currency": "DHS"
+          }
+        },
+        "image": "canam-maverick-4seat.jpg"
+      }
+    ],
+    "moto": [
+      {
+        "id": "moto-yz-125",
+        "category": "MOTO CROSS",
+        "brand": "YAMAHA",
+        "model": "YZ125",
+        "engineSize": "125cc",
+        "description": "Lightweight 2-stroke motocross bike perfect for beginners",
+        "specifications": {
+          "engine": "125cc 2-stroke single cylinder",
+          "power": "~34 HP",
+          "transmission": "5-speed",
+          "weight": "86 kg (190 lbs)",
+          "fuelSystem": "Mikuni Carburetor"
+        },
+        "pricing": {
+          "1hour": {
+            "price": 1000,
+            "currency": "DHS"
+          },
+          "2hours": {
+            "price": 1800,
+            "currency": "DHS"
+          }
+        },
+        "image": "yz-125.jpg"
+      },
+      {
+        "id": "moto-yz-250",
+        "category": "MOTO CROSS",
+        "brand": "YAMAHA",
+        "model": "YZ250",
+        "engineSize": "250cc",
+        "description": "Powerful 2-stroke motocross bike with legendary performance",
+        "specifications": {
+          "engine": "250cc 2-stroke single cylinder",
+          "power": "~49 HP",
+          "transmission": "5-speed",
+          "weight": "102 kg (225 lbs)",
+          "fuelSystem": "Keihin Carburetor"
+        },
+        "pricing": {
+          "1hour": {
+            "price": 1000,
+            "currency": "DHS"
+          },
+          "2hours": {
+            "price": 1800,
+            "currency": "DHS"
+          }
+        },
+        "image": "yz-250.jpg"
+      },
+      {
+        "id": "moto-yz-85",
+        "category": "MOTO CROSS",
+        "brand": "YAMAHA",
+        "model": "YZ85",
+        "engineSize": "85cc",
+        "description": "Youth motocross bike with professional-level performance",
+        "specifications": {
+          "engine": "85cc 2-stroke single cylinder",
+          "power": "~20 HP",
+          "transmission": "6-speed",
+          "weight": "68 kg (150 lbs)",
+          "fuelSystem": "Mikuni Carburetor"
+        },
+        "pricing": {
+          "1hour": {
+            "price": 1000,
+            "currency": "DHS"
+          },
+          "2hours": {
+            "price": 1800,
+            "currency": "DHS"
+          }
+        },
+        "image": "yz-85.jpg"
+      },
+      {
+        "id": "moto-ktm-450",
+        "category": "MOTO CROSS",
+        "brand": "KTM",
+        "model": "450 SX-F",
+        "engineSize": "450cc",
+        "description": "Professional 4-stroke motocross bike with championship-proven performance",
+        "specifications": {
+          "engine": "450cc 4-stroke single cylinder SOHC",
+          "power": "~62 HP",
+          "transmission": "5-speed",
+          "weight": "100 kg (220 lbs)",
+          "fuelSystem": "Electronic Fuel Injection"
+        },
+        "pricing": {
+          "1hour": {
+            "price": 1000,
+            "currency": "DHS"
+          },
+          "2hours": {
+            "price": 1800,
+            "currency": "DHS"
+          }
+        },
+        "image": "ktm-450.jpg"
+      }
+    ]
+  },
+  "rentalTerms": {
+    "minimumAge": 18,
+    "licenseRequired": true,
+    "deposit": "Credit card hold required",
+    "insurance": "Basic insurance included",
+    "fuelPolicy": "Return with same fuel level",
+    "cancellationPolicy": "24 hours advance notice required"
+  },
+  "location": {
+    "name": "Nice Quad Marrakech",
+    "city": "Marrakech",
+    "country": "Morocco",
+    "currency": "DHS"
+  }
+}

@@ -1,0 +1,167 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 5%;
+    --card: 0 0% 98%;
+    --card-foreground: 0 0% 5%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 5%;
+    --primary: 24 95% 53%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 0 0% 96%;
+    --secondary-foreground: 24 95% 53%;
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 40%;
+    --accent: 24 95% 96%;
+    --accent-foreground: 24 95% 53%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 90%;
+    --input: 0 0% 90%;
+    --ring: 24 95% 53%;
+    --chart-1: 24 95% 53%;
+    --chart-2: 0 0% 5%;
+    --chart-3: 0 0% 50%;
+    --chart-4: 24 85% 40%;
+    --chart-5: 0 0% 20%;
+    --radius: 0.75rem;
+    --color-1: 24 95% 53%;
+    --color-2: 0 0% 5%;
+    --color-3: 24 85% 40%;
+    --color-4: 0 0% 20%;
+    --color-5: 24 90% 60%;
+  }
+  .dark {
+    --background: 0 0% 5%;
+    --foreground: 0 0% 98%;
+    --card: 0 0% 8%;
+    --card-foreground: 0 0% 98%;
+    --popover: 0 0% 5%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 24 95% 53%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 0 0% 10%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 0 0% 15%;
+    --muted-foreground: 0 0% 60%;
+    --accent: 0 0% 10%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 15%;
+    --input: 0 0% 15%;
+    --ring: 24 95% 53%;
+    --chart-1: 24 95% 53%;
+    --chart-2: 0 0% 80%;
+    --chart-3: 0 0% 50%;
+    --chart-4: 24 85% 40%;
+    --chart-5: 0 0% 70%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* React DatePicker Custom Styles */
+.react-datepicker {
+  @apply font-sans border-2 border-gray-200 shadow-lg;
+  border-radius: 0.75rem !important;
+  overflow: hidden !important;
+}
+
+.react-datepicker__header {
+  background-color: #f97316 !important;
+  border-bottom: 2px solid #fb923c !important;
+  border-radius: 0.75rem 0.75rem 0 0 !important;
+}
+
+.react-datepicker__current-month {
+  @apply text-white font-bold text-base;
+}
+
+.react-datepicker__day-name {
+  @apply text-white font-semibold text-xs;
+}
+
+.react-datepicker__navigation {
+  @apply top-3;
+}
+
+.react-datepicker__navigation-icon::before {
+  @apply border-white;
+}
+
+.react-datepicker__day {
+  @apply text-gray-900 hover:bg-orange-50 hover:text-orange-600 rounded-lg transition-colors duration-200;
+}
+
+.react-datepicker__day--selected,
+.react-datepicker__day--keyboard-selected {
+  @apply bg-orange-500 text-white font-semibold hover:bg-orange-600;
+}
+
+.react-datepicker__day--today {
+  @apply font-bold border border-orange-600;
+}
+
+.react-datepicker__day--disabled {
+  @apply text-gray-300 hover:bg-transparent cursor-not-allowed;
+}
+
+.react-datepicker__day--outside-month {
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
+
+.react-datepicker__time-container {
+  @apply border-l-2 border-gray-200;
+}
+
+.react-datepicker__time-container .react-datepicker__time {
+  @apply bg-white;
+}
+
+.react-datepicker__time-container .react-datepicker__header {
+  background-color: #f97316 !important;
+}
+
+.react-datepicker__time-container .react-datepicker__header--time {
+  background-color: #f97316 !important;
+  border-bottom: 2px solid #fb923c !important;
+}
+
+.react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box {
+  @apply w-full;
+}
+
+.react-datepicker__time-list-item {
+  @apply hover:bg-orange-50 hover:text-orange-600 transition-colors duration-200;
+}
+
+.react-datepicker__time-list-item--selected {
+  @apply bg-orange-500 text-white font-semibold hover:bg-orange-600;
+}
+
+.react-datepicker-popper {
+  @apply z-[10000];
+}
+
+/* Brand Font */
+.font-collegiate {
+  font-family: 'Alumni Sans Collegiate One', sans-serif;
+  font-weight: 700;
+}

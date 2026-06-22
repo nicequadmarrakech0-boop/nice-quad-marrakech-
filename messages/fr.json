@@ -1,0 +1,349 @@
+{
+  "common": {
+    "back": "Retour",
+    "backHome": "Retour à l'accueil",
+    "loading": "Chargement...",
+    "submit": "Soumettre",
+    "bookNow": "Réserver",
+    "viewAll": "Voir tout",
+    "seeAll": "Tout voir",
+    "readMore": "Lire la suite",
+    "searchPlaceholder": "Rechercher...",
+    "noResults": "Aucun résultat trouvé",
+    "allPosts": "Tous les articles",
+    "perHour": "/heure",
+    "startingFrom": "À partir de",
+    "included": "Inclus",
+    "featured": "À la une",
+    "seats": "places",
+    "seat": "place"
+  },
+  "nav": {
+    "home": "Accueil",
+    "experiences": "Expériences",
+    "gallery": "Galerie",
+    "reviews": "Avis",
+    "map": "Carte",
+    "explore": "Explorer",
+    "blog": "Blog"
+  },
+  "hero": {
+    "location": "MARRAKECH, MAROC",
+    "title": "Nice Quads Marrakech",
+    "subtitle": "Votre partenaire d'aventure",
+    "description": "Vivez l'aventure du quad, des balades en buggy et du motocross à travers les paysages désertiques époustouflants du Maroc. Guides professionnels, équipement haut de gamme, transfert hôtel, petit-déjeuner marocain traditionnel avec thé, photos professionnelles,",
+    "descriptionHighlight": "et une balade en chameau de 20 minutes offerte",
+    "descriptionEnd": "— notre cadeau pour vous !",
+    "viewFleet": "Voir la flotte",
+    "stats": {
+      "vehicles": "30+ Véhicules",
+      "premiumFleet": "Flotte Premium",
+      "fullyInsured": "Entièrement assuré",
+      "safeSecure": "Sûr et sécurisé",
+      "expertGuides": "Guides experts",
+      "allSkillLevels": "Tous niveaux"
+    },
+    "offerings": {
+      "quadBiking": "Quad",
+      "quadDesc": "VTT puissants pour aventures désertiques",
+      "buggyTours": "Excursions en buggy",
+      "buggyDesc": "Buggys haute performance",
+      "motocross": "Motocross",
+      "motocrossDesc": "Motos tout-terrain professionnelles"
+    }
+  },
+  "experiences": {
+    "title": "Choisissez votre",
+    "titleHighlight": "Aventure",
+    "subtitle": "Expériences désertiques premium avec quads, buggys et motocross. Guides professionnels, équipement de premier choix.",
+    "categories": {
+      "buggies": "Buggys",
+      "quads": "Quads",
+      "motocross": "Motocross"
+    },
+    "pageTitle": "Toutes nos",
+    "pageTitleHighlight": "Expériences",
+    "pageSubtitle": "Découvrez notre flotte complète de quads, buggys et motos de motocross premium. Choisissez le véhicule idéal pour votre aventure dans le désert de Marrakech.",
+    "specs": {
+      "power": "Puissance",
+      "engine": "Moteur",
+      "capacity": "Capacité",
+      "type": "Type",
+      "transmission": "Transmission"
+    }
+  },
+  "reviews": {
+    "title": "Ce que disent nos",
+    "titleHighlight": "Aventuriers",
+    "titleEnd": "",
+    "subtitle": "Expériences réelles de vrais voyageurs qui ont découvert la magie du Maroc avec nous",
+    "pageTitle": "Ce que disent nos",
+    "pageTitleHighlight": "Clients",
+    "pageTitleEnd": "",
+    "pageSubtitle": "Expériences authentiques de nos clients qui ont choisi nos véhicules premium pour leurs aventures au Maroc.",
+    "customerReviews": "Avis clients",
+    "averageRating": "Note moyenne",
+    "totalReviews": "Total des avis",
+    "noReviews": "Pas encore d'avis",
+    "noReviewsDesc": "Soyez le premier à partager votre expérience ! Vos retours aident les autres voyageurs à découvrir la magie du Maroc.",
+    "noReviewsFound": "Aucun avis trouvé",
+    "tryAdjusting": "Essayez de modifier votre recherche.",
+    "beFirst": "Soyez le premier à partager votre expérience !",
+    "addReview": "Ajouter un avis",
+    "seeAllReviews": "Voir tous les avis",
+    "shareExperience": "Partagez votre expérience",
+    "shareExperienceDesc": "Vous avez vécu une aventure au Maroc avec nous ? Nous serions ravis de connaître votre expérience !"
+  },
+  "addReview": {
+    "title": "Ajouter votre",
+    "titleHighlight": "Avis",
+    "subtitle": "Aidez les autres voyageurs en partageant votre expérience d'aventure au Maroc. Vos commentaires honnêtes comptent beaucoup pour nous et les futurs visiteurs.",
+    "shareExperience": "Partagez votre expérience",
+    "vehicleQuestion": "Quel véhicule avez-vous loué ?",
+    "selectVehicle": "Sélectionnez un véhicule...",
+    "searchVehicles": "Rechercher des véhicules...",
+    "noVehiclesFound": "Aucun véhicule trouvé",
+    "tryAdjusting": "Essayez de modifier votre recherche",
+    "yourName": "Votre nom",
+    "enterName": "Entrez votre nom complet",
+    "yourEmail": "Votre email",
+    "enterEmail": "Entrez votre adresse email",
+    "overallRating": "Note globale",
+    "ratingLabels": {
+      "excellent": "Excellent !",
+      "veryGood": "Très bien !",
+      "good": "Bien",
+      "fair": "Correct",
+      "poor": "Médiocre"
+    },
+    "stars": "étoiles",
+    "star": "étoile",
+    "experienceLabel": "Partagez votre expérience",
+    "experiencePlaceholder": "Parlez-nous de votre expérience... Qu'avez-vous le plus aimé ? Qu'est-ce qui l'a rendue spéciale ? Des conseils pour les futurs voyageurs ?",
+    "characters": "caractères",
+    "privacyNotice": "Avis de confidentialité :",
+    "privacyText": "Votre adresse email ne sera jamais partagée publiquement ni avec des tiers. Nous l'utilisons uniquement à des fins internes et pour vous contacter si nécessaire. Votre avis sera examiné par notre équipe avant publication. Seuls votre nom et votre avis seront affichés publiquement.",
+    "submitReview": "Soumettre l'avis",
+    "submitting": "Envoi en cours...",
+    "thankYou": "Merci !",
+    "successMessage": "Votre avis a été soumis avec succès ! Il sera examiné par notre équipe et publié une fois approuvé. Vous pourrez le consulter sur notre page d'avis plus tard.",
+    "backToHome": "Retour à l'accueil",
+    "viewAllReviews": "Voir tous les avis",
+    "errors": {
+      "selectVehicle": "Veuillez sélectionner un véhicule",
+      "nameRequired": "Le nom est requis",
+      "emailRequired": "L'email est requis",
+      "emailInvalid": "Veuillez entrer un email valide",
+      "ratingRequired": "Veuillez sélectionner une note",
+      "commentRequired": "Le commentaire est requis",
+      "commentMinLength": "L'avis doit contenir au moins 10 caractères"
+    }
+  },
+  "booking": {
+    "completeBooking": "Finalisez votre réservation",
+    "yourInformation": "Vos informations",
+    "fullName": "Nom complet",
+    "fullNamePlaceholder": "Jean Dupont",
+    "email": "Email",
+    "emailPlaceholder": "jean@exemple.com",
+    "phone": "Téléphone",
+    "phonePlaceholder": "+212 6 34 32 44 28",
+    "dateTime": "Date et heure",
+    "date": "Date",
+    "selectDate": "Sélectionner la date",
+    "time": "Heure",
+    "selectTime": "Sélectionner l'heure",
+    "duration": "Durée",
+    "oneHour": "1 Heure",
+    "twoHours": "2 Heures",
+    "numberOfVehicles": "Nombre de véhicules",
+    "howMany": "Combien",
+    "quads": "Quads",
+    "people": "Personnes",
+    "secondPassenger": "2ème :",
+    "secondPassengerInfo": "Jusqu'à 2 personnes peuvent partager un quad. La première personne paie le prix complet (150 DHS/2h), le deuxième passager ne paie que 50 DHS/h.",
+    "totalAmount": "Montant total",
+    "allInclusive": "Prix tout compris",
+    "confirmationNote": "Email de confirmation dans les 15 minutes.",
+    "confirmBooking": "Confirmer la réservation",
+    "completeAllFields": "Complétez tous les champs",
+    "processing": "Traitement en cours...",
+    "noVehicleSelected": "Aucun véhicule sélectionné",
+    "goBack": "Retour",
+    "change": "Modifier",
+    "selectConfiguration": "Sélectionner la configuration",
+    "selectBike": "Sélectionner la moto",
+    "freeBonusGift": "Cadeau bonus gratuit",
+    "camelRideIncluded": "Balade en chameau de 20 minutes incluse !",
+    "vehicle": "Véhicule",
+    "vehicles": "Véhicules",
+    "trustBadges": {
+      "securePayment": "Paiement sécurisé",
+      "licensed": "Licencié",
+      "support": "Assistance 24/7"
+    },
+    "confirmation": {
+      "title": "Réservation confirmée !",
+      "subtitle": "Votre aventure vous attend",
+      "bookingDetails": "Détails de la réservation",
+      "customer": "Client",
+      "totalPrice": "Prix total",
+      "confirmationEmailSent": "Email de confirmation envoyé",
+      "wellCallYou": "Nous vous appellerons bientôt",
+      "confirmationWithin": "Confirmation sous 24 heures",
+      "backToHome": "Retour à l'accueil",
+      "newBooking": "Nouvelle réservation"
+    },
+    "vehicleSelector": {
+      "title": "Choisissez votre aventure",
+      "selected": "Sélectionné"
+    }
+  },
+  "blog": {
+    "ourBlog": "Notre blog",
+    "title": "Conseils de voyage et",
+    "titleHighlight": "Guides d'aventure",
+    "subtitle": "Découvrez des conseils d'initiés, des guides de voyage et des recommandations d'experts pour votre aventure dans le désert de Marrakech.",
+    "pageTitle": "Notre",
+    "pageTitleHighlight": "Blog",
+    "pageSubtitle": "Découvrez des conseils de voyage, des guides d'aventure et des informations sur le quad et les aventures désertiques à Marrakech.",
+    "searchArticles": "Rechercher des articles...",
+    "readArticle": "Lire l'article",
+    "readMore": "Lire la suite",
+    "viewAllArticles": "Voir tous les articles",
+    "minRead": "min de lecture",
+    "min": "min",
+    "author": "Auteur",
+    "noArticles": "Aucun article trouvé",
+    "noArticlesSearch": "Essayez un autre terme de recherche",
+    "noArticlesCheck": "Revenez bientôt pour de nouveaux articles !",
+    "relatedPosts": "Articles similaires",
+    "sharePost": "Partager cet article",
+    "tableOfContents": "Table des matières",
+    "tags": "Tags"
+  },
+  "footer": {
+    "tagline": "Vivez l'aventure du désert de Marrakech",
+    "description": "Excursions guidées en quad et buggy dans la Palmeraie de Marrakech. Aventures désertiques sûres et familiales avec transfert hôtel et guides locaux experts.",
+    "experiences": "Expériences",
+    "quadBikes": "Quads",
+    "buggies": "Buggys",
+    "motocross": "Motocross",
+    "contact": "Contact",
+    "allRightsReserved": "Tous droits réservés.",
+    "premiumAdventures": "Aventures Premium"
+  },
+  "gallery": {
+    "title": "Notre",
+    "titleHighlight": "Galerie",
+    "subtitle": "Explorez nos aventures à travers ces moments capturés",
+    "images": "Images",
+    "videos": "Vidéos",
+    "noItems": "Pas de {type} disponible pour le moment. Revenez bientôt !"
+  },
+  "map": {
+    "title": "Trouvez",
+    "titleHighlight": "Notre Emplacement",
+    "subtitle": "Visitez-nous à notre bureau à Marrakech ou explorez notre emplacement sur la carte ci-dessous",
+    "getDirections": "Obtenir l'itinéraire"
+  },
+  "experienceVehicles": {
+    "quad-kymco-300": {
+      "description": "Aventure idéale pour les débutants à travers les magnifiques paysages désertiques de Marrakech. Votre forfait complet inclut : transfert hôtel, petit-déjeuner marocain traditionnel avec thé, photos professionnelles et tout l'équipement de sécurité. La transmission automatique facilite la prise en main pour les novices.",
+      "highlights": {
+        "pickup": "Transfert hôtel inclus",
+        "breakfast": "Petit-déjeuner marocain & thé",
+        "photos": "Photos professionnelles incluses",
+        "safety": "Équipement de sécurité inclus",
+        "beginner": "Adapté aux débutants",
+        "trails": "Pistes désertiques"
+      }
+    },
+    "quad-raptor-700": {
+      "description": "Libérez 45 CV d'adrénaline pure sur les terrains les plus exigeants du Maroc. Ce quad sport haute performance est conçu pour les pilotes expérimentés en quête de sensations fortes. Forfait tout compris : transferts hôtel, petit-déjeuner marocain avec thé, photos professionnelles et équipement de sécurité complet. Suspension avancée pour tous les terrains.",
+      "highlights": {
+        "pickup": "Transfert hôtel inclus",
+        "breakfast": "Petit-déjeuner marocain & thé",
+        "photos": "Photos professionnelles incluses",
+        "safety": "Équipement de sécurité complet",
+        "power": "Puissance 45 CV",
+        "suspension": "Suspension avancée"
+      }
+    },
+    "buggy-polaris-rs1": {
+      "description": "Vivez la performance pure avec ce monstre monoplace de 110 CV conçu pour les aventures tout-terrain agressives. Votre aventure complète inclut : transfert hôtel, petit-déjeuner marocain traditionnel avec thé, photos professionnelles de chaque moment et tout l'équipement de sécurité. Parfait pour les amateurs de sensations en solo.",
+      "highlights": {
+        "pickup": "Transfert hôtel inclus",
+        "breakfast": "Petit-déjeuner marocain & thé",
+        "photos": "Photos professionnelles incluses",
+        "safety": "Harnais de sécurité inclus",
+        "awd": "Transmission AWD",
+        "dunes": "Prêt pour les dunes"
+      }
+    },
+    "buggy-cfmoto-zforce-1000": {
+      "description": "Partagez l'aventure avec ce puissant buggy side-by-side V-twin de 90 CV. Parfait pour les couples ou amis voulant découvrir le désert ensemble. Forfait complet : transfert hôtel, petit-déjeuner marocain traditionnel avec thé, photos professionnelles de votre aventure et doubles harnais de sécurité. 2WD/4WD sélectionnable pour tous les terrains.",
+      "highlights": {
+        "pickup": "Transfert hôtel inclus",
+        "breakfast": "Petit-déjeuner marocain & thé",
+        "photos": "Photos professionnelles incluses",
+        "safety": "Double harnais de sécurité",
+        "power": "Puissance V-twin 90 CV",
+        "couples": "Aventure en duo"
+      }
+    },
+    "buggy-canam-maverick": {
+      "description": "Vivez la montée d'adrénaline ultime avec cette bête turbocompressée de 200 CV, parfaite pour les aventures tout-terrain extrêmes dans le désert. Votre forfait tout compris comprend : transfert hôtel, petit-déjeuner marocain traditionnel avec thé, photos professionnelles et harnais de sécurité 4 points. Disponible en 2 places pour des sensations intenses ou 4 places pour partager l'aventure en famille.",
+      "highlights": {
+        "pickup": "Transfert hôtel inclus",
+        "breakfast": "Petit-déjeuner marocain & thé",
+        "photos": "Photos professionnelles incluses",
+        "safety": "Harnais 4 points",
+        "suspension": "Suspension FOX racing",
+        "terrain": "Terrain extrême"
+      }
+    },
+    "moto-cross": {
+      "description": "Expérience motocross professionnelle sur des pistes de classe mondiale avec des motos allant de 85cc pour les jeunes aux puissantes machines de course 450cc. Parfait pour tous les niveaux, des débutants aux experts. Votre forfait complet inclut : transfert hôtel, petit-déjeuner marocain traditionnel avec thé, photos professionnelles de votre ride et équipement MX complet (casque, bottes, protections). Choisissez votre moto et votre niveau.",
+      "highlights": {
+        "pickup": "Transfert hôtel inclus",
+        "breakfast": "Petit-déjeuner marocain & thé",
+        "photos": "Photos professionnelles incluses",
+        "safety": "Équipement MX complet inclus",
+        "levels": "Tous niveaux",
+        "tracks": "Pistes motocross"
+      }
+    }
+  },
+  "discover": {
+    "title": "Explorez",
+    "titleHighlight": "le Maroc",
+    "subtitle": "De Marrakech à Merzouga, d'Essaouira à Fès. Découvrez les meilleures villes et paysages du Maroc avec nos aventures premium en quad et buggy.",
+    "cities": {
+      "marrakech": {
+        "title": "Marrakech",
+        "description": "Cité impériale rouge avec dunes désertiques, palmeraies et sentiers de l'Atlas. Base idéale pour des aventures en quad avec des guides experts. Explorez les paysages du désert d'Agafay, les circuits de la Palmeraie et les sentiers de montagne. Vivez l'hospitalité marocaine authentique avec des excursions professionnelles en quad. Découvrez les trésors cachés près de Marrakech avec des balades en buggy au coucher du soleil."
+      },
+      "merzouga": {
+        "title": "Merzouga",
+        "description": "Porte d'entrée des dunes dorées de l'Erg Chebbi au Sahara. Découvrez la culture berbère et des expéditions épiques en quad dans le désert. Naviguez sur d'immenses dunes de sable avec des quads et buggys puissants. Admirez des levers de soleil magiques et des nuits étoilées inoubliables. Combinez trek à dos de chameau et aventures en quad au cœur du Sahara marocain."
+      },
+      "essaouira": {
+        "title": "Essaouira",
+        "description": "Joyau côtier atlantique avec plages et remparts anciens. Quad le long des rivages océaniques avec vues imprenables. Parcourez les dunes côtières, forêts d'eucalyptus et plages de sable fin. Vivez le mélange parfait entre brise marine et sports d'aventure. Explorez la médina classée UNESCO et l'île de Mogador lors de tours guidés en quad."
+      },
+      "ouarzazate": {
+        "title": "Ouarzazate",
+        "description": "Le Hollywood du Maroc avec des paysages désertiques cinématographiques. Roulez à travers des lieux de tournage et d'anciennes kasbahs. Découvrez le village fortifié d'Aït Ben Haddou et les Atlas Studios en quad. Vivez des paysages de vallée spectaculaires et un terrain pré-saharien. Aventurez-vous à travers des décors de films célèbres et une architecture berbère millénaire."
+      },
+      "fes": {
+        "title": "Fès",
+        "description": "Ancienne cité impériale aux médinas médiévales. Tours culturels en quad à travers collines et villages berbères. Parcourez les montagnes du Moyen Atlas avec des vues panoramiques à couper le souffle et des forêts de cèdres. Visitez les villages de potiers traditionnels et ateliers d'artisans lors d'excursions guidées. Combinez exploration du patrimoine et aventures palpitantes en quad dans la capitale culturelle du Maroc."
+      },
+      "agadir": {
+        "title": "Agadir",
+        "description": "Station balnéaire moderne avec dunes côtières. Les rivages atlantiques rencontrent les aventures désertiques sous un climat parfait. Roulez le long de plages immaculées, du Parc National de Souss-Massa et des forêts d'arganiers. Soleil toute l'année, idéal pour les tours en buggy et les expériences en quad. Profitez des clubs de plage, fruits de mer et sports d'adrénaline dans la première destination côtière du Maroc."
+      }
+    }
+  }
+}
