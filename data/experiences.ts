@@ -77,8 +77,8 @@ export const experiences: Experience[] = [
       seats: 2,
     },
     pricing: {
-      oneHour: { price: 150, currency: "MAD" },
-      twoHours: { price: 150, currency: "MAD" },
+      oneHour: { price: 200, currency: "MAD" },
+      twoHours: { price: 300, currency: "MAD" },
     },
     highlights: [
       { icon: 'plane', text: 'Hotel pickup & drop-off' },
